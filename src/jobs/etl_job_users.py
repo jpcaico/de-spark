@@ -7,7 +7,7 @@ from utils.transforms import get_greatest_rank, get_rate
 from utils.output import write_into_parquet
 
 
-# main definitions & calls
+# main definitions & callså
 def main():
     spark = SparkSession.builder.appName("etl-job-users").getOrCreate()
 
