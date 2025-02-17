@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "de-spark",
+			"path": "../.."
+		},
+		{
+			"name": "providers",
+			"path": "../../../series-spark/providers"
+		}
+	],
+	"settings": {}
+}
